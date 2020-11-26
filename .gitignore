@@ -25,10 +25,10 @@
 **/ios/Flutter/.last_build_id
 .dart_tool/
 
-ios/
-build/
-android/
-test/
+ios/*
+build/*
+android/*
+test/*
 
 # Web related
 lib/generated_plugin_registrant.dart
