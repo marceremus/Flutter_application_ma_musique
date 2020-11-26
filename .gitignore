@@ -28,8 +28,7 @@
 ios
 build
 android
-
-
+test
 
 # Web related
 lib/generated_plugin_registrant.dart
@@ -39,6 +38,4 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
-/test/
-/ios/
-/android/
+
